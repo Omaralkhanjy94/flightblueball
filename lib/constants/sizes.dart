@@ -1,0 +1,2 @@
+double PRIMERY_FONT_SIZE = 35;
+double SECONDARY_FONT_SIZE = 20;
